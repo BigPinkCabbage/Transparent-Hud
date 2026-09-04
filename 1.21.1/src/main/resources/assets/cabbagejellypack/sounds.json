@@ -1,0 +1,12 @@
+{
+  "fufu_click": {
+    "sounds": [
+      "cabbagejellypack:fufu_click"
+    ]
+  },
+   "fufu_click_return": {
+    "sounds": [
+      "cabbagejellypack:fufu_click_return"
+    ]
+  }
+}

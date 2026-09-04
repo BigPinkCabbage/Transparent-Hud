@@ -1,0 +1,36 @@
+{
+  "required": true,
+  "package": "com.fufu.cabbagejellypack.Mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "TransparentGuiMixin",
+    "TransparentGuiMixin$TransparentAbstractContainerScreenMixin",
+    "TransparentGuiMixin$TransparentAbstractFurnaceScreenMixin",
+    "TransparentGuiMixin$TransparentBeaconScreenMixin",
+    "TransparentGuiMixin$TransparentBrewingStandScreenMixin",
+    "TransparentGuiMixin$TransparentCartographyTableScreenMixin",
+    "TransparentGuiMixin$TransparentContainerScreenMixin",
+    "TransparentGuiMixin$TransparentCrafterScreenMixin",
+    "TransparentGuiMixin$TransparentCraftingScreenMixin",
+    "TransparentGuiMixin$TransparentCreativeInventoryScreenMixin",
+    "TransparentGuiMixin$TransparentDispenserScreenMixin",
+    "TransparentGuiMixin$TransparentEnchantmentScreenMixin",
+    "TransparentGuiMixin$TransparentGrindstoneScreenMixin",
+    "TransparentGuiMixin$TransparentHopperMixin",
+    "TransparentGuiMixin$TransparentItemCombinerScreenMixin",
+    "TransparentGuiMixin$TransparentLoomScreenMixin",
+    "TransparentGuiMixin$TransparentMerchantScreenMixin",
+    "TransparentGuiMixin$TransparentRecipeBookTabButtonMixin",
+    "TransparentGuiMixin$TransparentRecipeBookUIMixin",
+    "TransparentGuiMixin$TransparentShulkerBoxScreenMixin",
+    "TransparentGuiMixin$TransparentStonecutterScreenMixin",
+    "TransparentGuiMixin$TransparentSurviveUIMixin"
+  ]
+}
